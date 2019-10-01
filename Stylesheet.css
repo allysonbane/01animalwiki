@@ -1,0 +1,30 @@
+body {
+    font-family:"Marvel",sans-serif;
+    margin-top:100 px;
+    width:1090px;
+    margin:0 auto;
+}
+h1{
+    color:darkgrey;
+    text-align: left;
+    font-size: 3em;
+}
+
+.container {
+    width:800px;
+    margin: 0 auto;
+}
+
+div {
+    border:none;
+    padding-top: 50px;
+    padding-right:30px;
+    padding-bottom: 50px;
+    padding-left: 80 px;
+}
+
+h2{
+    background-color: cornflowerblue;
+    width: 300px;
+    padding: 5px;
+}
